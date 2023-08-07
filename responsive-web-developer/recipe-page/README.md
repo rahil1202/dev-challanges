@@ -6,7 +6,18 @@ Welcome to the "Recipe Page"! This project is a responsive web page featuring a 
 
 The recipe page features a clean and organized layout, making it easy to browse and explore different recipes. Whether you're a seasoned chef or a cooking beginner, you'll find delightful recipes to try and enjoy.
 
-**Live Demo:** [View Demo](https://your-demo-link.com)
+See my [Dev Challenges portfolio](https://portfolio.devchallenges.io/rahil1202) and for more informations check [Dev Challenges website](https://devchallenges.io/)
+</br>
+
+## Live Demo 🌐:
+[View Demo](https://)
+</br>
+
+## Screenshots 📸
+
+![preview](https://github.com/rahil1202/dev-challanges/assets/104057403/4802e64c-7546-45fb-99a8-a2ee41420788)
+
+</br>
 
 ## Features 🌟
 
@@ -15,11 +26,6 @@ The recipe page features a clean and organized layout, making it easy to browse 
 - Detailed list of ingredients and step-by-step cooking instructions.
 - Simple and user-friendly design for an enjoyable browsing experience.
 
-## Screenshots 📸
-
-![preview](https://github.com/rahil1202/dev-challanges/assets/104057403/4802e64c-7546-45fb-99a8-a2ee41420788)
-
-</br>
 
 
 ## Technologies Used 💻
