@@ -1,6 +1,6 @@
-# Dev Challenges 🌐:
-
 <div align="center">
+  
+  # Dev Challenges 🌐:
   
   ![](logo-dev-challenges.png)
   
@@ -25,17 +25,17 @@ See my [Dev Challenges portfolio](https://portfolio.devchallenges.io/rahil1202) 
 
 ## Responsive Web Developer Path 📝:
 
-- Challenge 1 : [**"404 Not Found"**](https://github.com/rahil1202/dev-challenges/responsive-web-developer/404-not-found)
+- Challenge 1 : [**"404 Not Found"**](https://github.com/rahil1202/dev-challanges/responsive-web-developer/404-not-found)
 
-- Challenge 2 : [**"My Team Page"**](https://github.com/rahil1202/dev-challenges/responsive-web-developer/my-team-page)
+- Challenge 2 : [**"My Team Page"**](https://github.com/rahil1202/dev-challanges/responsive-web-developer/my-team-page)
 
-- Challenge 3 : [**"Interior Consultant"**](https://github.com/rahil1202/dev-challenges/responsive-web-developer/interior-consultant)
+- Challenge 3 : [**"Interior Consultant"**](https://github.com/rahil1202/dev-challanges/responsive-web-developer/interior-consultant)
 
-- Challenge 4 : [**"My Gallery"**](https://github.com/rahil1202/dev-challenges/responsive-web-developer/my-gallery)
+- Challenge 4 : [**"My Gallery"**](https://github.com/rahil1202/dev-challanges/responsive-web-developer/my-gallery)
 
-- Challenge 5 : [**"Checkout Page"**](https://github.com/rahil1202/dev-challenges/responsive-web-developer/checkout-page)
+- Challenge 5 : [**"Checkout Page"**](https://github.com/rahil1202/dev-challanges/responsive-web-developer/checkout-page)
 
-- Challenge 6 : [**"Recipe Page"**](https://github.com/rahil1202/dev-challenges/responsive-web-developer/recipe-page)
+- Challenge 6 : [**"Recipe Page"**](https://github.com/rahil1202/dev-challanges/responsive-web-developer/recipe-page)
 
 <br>
 
