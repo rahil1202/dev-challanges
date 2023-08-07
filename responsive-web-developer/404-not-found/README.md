@@ -1,7 +1,5 @@
 # 404 Not Found Webpage 🚀
 
-
-
 ## Overview 📝
 
 This project is a responsive webpage created as a part of the DevChallenges' "Responsive Web Design" challenge. The goal was to design a simple and visually appealing "404 Not Found" webpage using HTML, CSS, and JavaScript.
@@ -18,14 +16,10 @@ The webpage features a clean and modern design with a subtle animation to engage
 - Simple and user-friendly design.
 
 ## Screenshots 📸
+![preview](https://github.com/rahil1202/dev-challanges/assets/104057403/7274d5e3-7881-4c49-82a7-373711e60d0b)
 
+<br>
 
-
-## How to Use 🚀
-
-1. Clone the repository: `git clone https://github.com/rahil1202/devchallanges/responsive-web-design/404-not-found.git`
-2. Navigate to the project directory: `cd 404-not-found`
-3. Open the `index.html` file in your web browser.
 
 ## Technologies Used 💻
 
