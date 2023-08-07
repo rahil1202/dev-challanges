@@ -1,31 +1,25 @@
-# 404 Not Found Webpage 🚀
+# My Team Page  🚀
 
+## Overview 👥
 
+Welcome to "My Team Page"! This project is a responsive web page showcasing the talented members of our team. It is designed to highlight the unique skills and contributions of each team member, created as a part of the DevChallenges' "Responsive Web Design" challenge, using HTML, CSS, and JavaScript.
 
-## Overview 📝
+The team page features a modern and professional design, with individual sections for each team member. It includes photos, bios, and links to connect with them on social media or professional platforms.
 
-This project is a responsive webpage created as a part of the DevChallenges' "Responsive Web Design" challenge. The goal was to design a simple and visually appealing "404 Not Found" webpage using HTML, CSS, and JavaScript.
-
-The webpage features a clean and modern design with a subtle animation to engage users. It includes a custom illustration and message to inform users that the page they are looking for cannot be found.
-
-**Live Demo:** [View Demo](https://)
+**Live Demo:** [View Demo](https://your-demo-link.com)
 
 ## Features 🌟
 
-- Responsive layout that adapts to different screen sizes and devices.
-- Custom "404 Not Found" illustration and message.
-- Smooth CSS animation to add visual interest.
-- Simple and user-friendly design.
+- Responsive layout that adapts seamlessly to different devices and screen sizes.
+- Individual sections for each team member with their photo and bio.
+- Social media and professional platform links to connect with team members.
+- Clean and elegant design to showcase the professionalism of our team.
 
 ## Screenshots 📸
 
+![preview](https://github.com/rahil1202/dev-challanges/assets/104057403/7d6755fd-0ebe-4b50-9357-38f8559873eb)
 
-
-## How to Use 🚀
-
-1. Clone the repository: `git clone https://github.com/rahil1202/devchallanges/responsive-web-design/404-not-found.git`
-2. Navigate to the project directory: `cd 404-not-found`
-3. Open the `index.html` file in your web browser.
+</br>
 
 ## Technologies Used 💻
 
@@ -33,6 +27,8 @@ The webpage features a clean and modern design with a subtle animation to engage
 - CSS3
 - JavaScript
 
+</br>
 
+Feel free to explore, modify, and use this project as you like. If you find our team impressive, don't hesitate to give our page a star! ⭐️
 
-If you have any suggestions or feedback, please feel free to reach out. Happy coding! 😊🚀
+For any inquiries or opportunities to collaborate, please feel free to contact us. We look forward to sharing our talents with you! 😊👥
