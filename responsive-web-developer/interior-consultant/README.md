@@ -6,7 +6,17 @@ This project is a responsive web page for an Interior Consultant, designed to sh
 
 The web page features a modern and elegant design, reflecting the creativity and professionalism of the interior consultant. It includes sections for showcasing portfolio projects, services offered, client testimonials, and a contact form for inquiries.
 
-**Live Demo:** [View Demo](https://your-demo-link.com)
+See my [Dev Challenges portfolio](https://portfolio.devchallenges.io/rahil1202) and for more informations check [Dev Challenges website](https://devchallenges.io/)
+</br>
+
+## Live Demo 🌐:
+[View Demo](https://)
+</br>
+
+## Screenshots 📸
+![preview](https://github.com/rahil1202/dev-challanges/assets/104057403/dbe2a691-0fef-42d8-a10d-493a77840fde)
+<br>
+
 
 ## Features 🌟
 
@@ -17,9 +27,6 @@ The web page features a modern and elegant design, reflecting the creativity and
 - Testimonials from satisfied clients to build trust and credibility.
 - Contact form to enable visitors to get in touch easily.
 
-## Screenshots 📸
-![preview](https://github.com/rahil1202/dev-challanges/assets/104057403/dbe2a691-0fef-42d8-a10d-493a77840fde)
-<br>
 
 ## Technologies Used 💻
 
