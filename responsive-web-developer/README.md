@@ -2,7 +2,7 @@
   
   # Dev Challenges 🌐:
   
-  ![](logo-dev-challenges.png)
+  ![Dev Challenges Logo](https://firebasestorage.googleapis.com/v0/b/devchallenges-1234.appspot.com/o/logo512.png?alt=media&token=5b0889f5-8b44-419f-bd6d-99b5ea218a5a)
   
 </div>
 
