@@ -14,6 +14,9 @@ See my [Dev Challenges portfolio](https://portfolio.devchallenges.io/rahil1202) 
 [View Demo](https://)
 </br>
 
+## Screenshots 📸
+![image](https://github.com/rahil1202/dev-challanges/assets/104057403/ce3e5e2a-41fc-4df7-9084-1dc7b199e8fa)
+
 ## Features 🌟
 
 - Responsive layout that adapts to different screen sizes and devices.
@@ -21,8 +24,7 @@ See my [Dev Challenges portfolio](https://portfolio.devchallenges.io/rahil1202) 
 - Form validation to prevent errors and improve data accuracy.
 - User-friendly design for easy navigation and readability.
 
-## Screenshots 📸
-![image](https://github.com/rahil1202/dev-challanges/assets/104057403/ce3e5e2a-41fc-4df7-9084-1dc7b199e8fa)
+
 
 
 
