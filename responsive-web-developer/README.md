@@ -2,7 +2,7 @@
   
   # Dev Challenges 🌐:
   
-  ![Dev Challenges Logo](https://firebasestorage.googleapis.com/v0/b/devchallenges-1234.appspot.com/o/logo512.png?alt=media&token=5b0889f5-8b44-419f-bd6d-99b5ea218a5a)
+![image](https://github.com/rahil1202/dev-challanges/assets/104057403/d3c97182-b00e-4f4f-9be3-d7c6e03b919b)
   
 </div>
 
