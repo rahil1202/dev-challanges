@@ -6,7 +6,18 @@ Welcome to "My Team Page"! This project is a responsive web page showcasing the 
 
 The team page features a modern and professional design, with individual sections for each team member. It includes photos, bios, and links to connect with them on social media or professional platforms.
 
-**Live Demo:** [View Demo](https://your-demo-link.com)
+See my [Dev Challenges portfolio](https://portfolio.devchallenges.io/rahil1202) and for more informations check [Dev Challenges website](https://devchallenges.io/)
+</br>
+
+## Live Demo 🌐:
+[View Demo](https://)
+</br>
+
+## Screenshots 📸
+
+![preview](https://github.com/rahil1202/dev-challanges/assets/104057403/7d6755fd-0ebe-4b50-9357-38f8559873eb)
+
+</br>
 
 ## Features 🌟
 
@@ -15,11 +26,7 @@ The team page features a modern and professional design, with individual section
 - Social media and professional platform links to connect with team members.
 - Clean and elegant design to showcase the professionalism of our team.
 
-## Screenshots 📸
 
-![preview](https://github.com/rahil1202/dev-challanges/assets/104057403/7d6755fd-0ebe-4b50-9357-38f8559873eb)
-
-</br>
 
 ## Technologies Used 💻
 
