@@ -17,7 +17,7 @@ The recipe page features a clean and organized layout, making it easy to browse 
 
 ## Screenshots 📸
 
-![preview](https://github.com/rahil1202/dev-challanges/assets/104057403/1a94eae6-890b-4923-a8a8-2a35d6bea9f0)
+![preview](https://github.com/rahil1202/dev-challanges/assets/104057403/4802e64c-7546-45fb-99a8-a2ee41420788)
 
 </br>
 
