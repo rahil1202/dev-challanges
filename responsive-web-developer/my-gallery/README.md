@@ -7,7 +7,7 @@ Welcome to "My Gallery"! This project is a responsive web page showcasing a coll
 
 The gallery features a clean and minimalist design, allowing the focus to remain on the images. It includes various categories to organize the photos, along with a lightbox for an enhanced viewing experience.
 
-**Live Demo:** [View Demo](https://your-demo-link.com)
+**Live Demo:** [View Demo](https://mygallery-devchallenges-rahil1202.netlify.app)
 
 ## Features 🌟
 
