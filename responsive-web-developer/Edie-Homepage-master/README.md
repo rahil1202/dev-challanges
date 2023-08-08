@@ -1,52 +1,42 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center"><a href="https://eufraniodiogo.github.io/">Edie Home Page</a></h1>
-<div align="center">
-  <h3>
-    <a href="https://eufraniodiogo.github.io/Edie-Homepage">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://github.com/EufranioDiogo/Edie-Homepage">
-      Solution
-    </a>
-  </h3>
-</div>
-
-<p>This web page is very beautifull and gives a introduction to customers about Edie.</p>
-
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Contact](#contact)
-
-## Overview
-
-![screenshot1](IMG/Screenshot1.png)
-![screenshot2](IMG/Screenshot2.png)
-![screenshot3](IMG/Screenshot3.png)
-![screenshot4](IMG/Screenshot4.png)
-
-- Where can I see your demo?<br>
-  [Here](https://eufraniodiogo.github.io/Edie-HomePage)
-- What was your experience?<br>
-  In this webpage I tested my CSS skills and I saw that I'm doing a great job.
-- What have you learned/improved?<br>
-  I improved my CSS skills
+# Dev Challenges Homepage
 
 
-### Built With
+## Overview 🚀
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+Welcome to the "Dev Challenges Homepage" project! This project is a simple and responsive homepage created as a part of the DevChallenges' "Responsive Web Design" challenge. It showcases your skills in web development using HTML, CSS, and JavaScript.
 
-- VUE.js
-- HTML
-- CSS
+The homepage features a clean and modern design, providing visitors with quick access to important information. It includes sections to introduce yourself, display your projects, and provide ways to connect with you.
 
-## Contact
+See my [Dev Challenges portfolio](https://portfolio.devchallenges.io/rahil1202) and for more informations check [Dev Challenges website](https://devchallenges.io/)
+</br>
 
-- [Website](https://eufraniodiogo.github.io)
-- [GitHub](https://github.com/EufranioDiogo)
-- Email: eufraniodiogo5@gmail.com
+## Live Demo 🌐:
+[View Demo](https://404-not-found-devchallenges-rahil1202.netlify.app/)
+</br>
+
+## Features 🌟
+
+- Responsive layout that adapts to various devices and screen sizes.
+- Introduction section to provide a brief overview of yourself.
+- Project showcase section with links to your notable projects.
+- Contact section with social media and email links.
+</br>
+
+## Screenshots 📸
+
+![image](https://github.com/rahil1202/dev-challenges/assets/104057403/f26daefc-8604-443c-b899-cbf077ff9a48)
+![image](https://github.com/rahil1202/dev-challenges/assets/104057403/e90969b2-b563-4815-bcab-3370078102df)
+
+
+</br>
+
+## Technologies Used 💻
+
+- HTML5
+- CSS3
+- JavaScript
+
+
+Feel free to explore, modify, and use this project as you like. If you find it helpful or inspiring, don't hesitate to give it a star! ⭐️
+
+If you have any feedback or questions, please feel free to reach out. Happy coding and happy showcasing your skills! 😊🎉
